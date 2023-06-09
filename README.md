@@ -11,7 +11,7 @@
 
 https://blog.yaogg.work/
 
-**技术栈**
+**个人能力**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
